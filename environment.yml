@@ -1,0 +1,10 @@
+name: asgs_geonames
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - geopandas
+  - pip
+  - pip:
+    - setuptools
+    - jupyterlab
